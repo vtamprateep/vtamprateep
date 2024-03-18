@@ -1,6 +1,6 @@
 # Hi there 👋
 
-From risk management to strategy and a master's in computer science later, I'm an aspiring software engineer looking to build things that make the world better off.
+From risk management to strategy and now a master's in computer science, I'm an aspiring software engineer looking to build things that make the world better off.
 
 ### 🧰 What I'm working on
 
