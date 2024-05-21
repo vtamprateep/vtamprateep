@@ -1,13 +1,13 @@
 # Hi there 👋
 
-From risk management to strategy and now a master's in computer science, I'm an aspiring software engineer looking to build things that make the world better off.
+From risk management to strategy and now a master's in computer science, I'm an aspiring software engineer looking to build novel things that make the world better off.
 
 ### 🔧 Skills I have
 
-- **Languages:** Java, Python, JavaScript, TypeScript, HTML, CSS, SQL, C++, LookML
-- **Frameworks:** ReactJS
-- **Databases:** PostgresQL, MongoDB
-- **Tools:** Git, dbt, Looker
+- **Languages:** Python, Java, JavaScript, TypeScript, HTML, CSS, SQL, C++, LookML
+- **Frameworks:** React, Next.js, Express, TailwindCSS
+- **Databases:** Postgres, MongoDB,
+- **Tools:** GitHub/GitHub Actions, dbt, Looker, Amazon Web Services
 
 ### 📚 Where I studied
 
